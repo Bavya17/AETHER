@@ -3,7 +3,7 @@ AN EMPHATETIC AI PLATFORM DESIGNED FOR EVERYDAY USE
 # Project Overview
 
 <cite>
-**Referenced Files in This Document**
+Referenced Files in This Document
 - [package.json](file://package.json)
 - [tailwind.config.ts](file://tailwind.config.ts)
 - [src/main.tsx](file://src/main.tsx)
